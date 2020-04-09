@@ -1,0 +1,27 @@
+canvas{
+    display: flex;
+    margin: 0 auto;
+}
+
+body{
+    font-family: Baloo Paji;
+    background-image: url('../img/patron.svg');
+    background-color: #2e4057;
+}
+
+@font-face{
+    font-family: Baloo Paji;
+    src: url('../fuentes/BalooPaaji2-Regular.ttf');
+}
+
+#slider, #titulo{
+    text-align: center;
+}
+
+.contenedor-carta{
+    background: white;
+    padding: 10px;
+    border-radius: 8px;
+    width: 60%;
+    margin: auto;
+}
