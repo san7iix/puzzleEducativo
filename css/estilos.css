@@ -25,3 +25,21 @@ body{
     width: 60%;
     margin: auto;
 }
+
+#logo_u{
+    margin: auto;
+    width: 20%;
+}
+
+.img{
+    text-align: center;
+}
+
+footer h4, footer {
+    margin: 0 auto;
+}
+
+footer{
+    text-align: center;
+    padding-top: 10px;
+}
